@@ -174,7 +174,7 @@ export const songs: Song[] = [
     id: 5,
     albumId: 2,
     title: "Night Drive",
-    image: `https://vinyl.lofirecords.com/cdn/shop/files/2amsynth-vinyl.png?v=1693312187`,
+    image: `/assets/lofi.jpeg`,
     artists: ["Urban Nocturne"],
     album: "Midnight Tales",
     duration: "4:20",
